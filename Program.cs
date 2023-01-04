@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            WagesOfMonth.EmployeeMonthlyWage();
+            FixCondition.DaysHoursOfMonth();
         }
     }
 
