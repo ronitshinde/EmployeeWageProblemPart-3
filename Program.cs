@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            EmpPTime.PartTime();
+            SwitchCaseProblem.SwitchCase();
         }
     }
 
