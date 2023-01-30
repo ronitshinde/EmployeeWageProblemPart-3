@@ -50,7 +50,7 @@
 
             int totalEmpWage = totalEmpHours * Emp_Rate_Per_Hour;
 
-            Console.WriteLine("Total Employee Wage : " + totalEmpWage);
+            Console.WriteLine("Total employee Wage : " + totalEmpWage);
 
             return totalEmpWage;
 
